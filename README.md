@@ -1,1 +1,2 @@
 # Movie_Recommendation_System
+The objective of the project is to provide personalized movie recommendations to users. By analyzing a collection of items, the system aims to suggest relevant movies that align with the users' preferences. It employs techniques to filter out irrelevant options, ensuring that the recommendations are tailored and accurate. Through this approach, the project aims to enhance the user experience by presenting them with movies they are likely to enjoy, thus improving their satisfaction with the online service provider.
